@@ -7,7 +7,7 @@ const figlet = require("figlet");
 
 const program = new Command();
 
-console.log(figlet.textSync("CyberArk CLI"));
+console.log(figlet.textSync("Chen CLI"));
 
 program
   .version("1.0.0")
